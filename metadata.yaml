@@ -1,5 +1,8 @@
 _repo: Kovalle-ottaa_61490
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Calamnius, Edvin
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49677
     wikipedia: https://fi.wikipedia.org/wiki/Esko_Virtala
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61490#Kovalle-ottaa
 gutenberg_issued: '2020-02-23'
 gutenberg_type: Text
 identifiers:
